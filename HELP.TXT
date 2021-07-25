@@ -1,0 +1,22 @@
+The Tunes Music App allows you to create your own custom playlists.
+Each user is alloted a "default" playlist file when he/she creates their account.
+Each user can maintain only one playlist. All users are given the permission
+to add new songs to the pool of songs. Only the administrator has the
+previlages to delete the songs from the pool.
+
+Use "W" and "S" to move your pointer up or down unless stated.
+
+Each option comes with a control label by its side in paranthesis. Hit
+the respective key to run the program.
+
+Everytime user tries to add a new song to their playlist, they can delete
+the existing playlist.
+
+Administrator cannot view playlists of any other user. Nor does admin have
+a default playlist.
+
+Don't use single and double quotes. Maximum character limit for all the fields
+is 20. Upper cases are "preferable".Using '_' instead of space is "preferable"
+
+If the Admin deletes the song from the pool, the song is not removed from the
+respective user's playlist.
